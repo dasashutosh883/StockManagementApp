@@ -1,0 +1,4 @@
+namespace Event.Core.Repositories
+{
+    
+}
