@@ -1,0 +1,12 @@
+D:\SMS\SMA.Core\bin\Debug\net9.0\SMA.Core.deps.json
+D:\SMS\SMA.Core\bin\Debug\net9.0\SMA.Core.dll
+D:\SMS\SMA.Core\bin\Debug\net9.0\SMA.Core.pdb
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.AssemblyInfoInputs.cache
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.AssemblyInfo.cs
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.csproj.CoreCompileInputs.cache
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.sourcelink.json
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.dll
+D:\SMS\SMA.Core\obj\Debug\net9.0\refint\SMA.Core.dll
+D:\SMS\SMA.Core\obj\Debug\net9.0\SMA.Core.pdb
+D:\SMS\SMA.Core\obj\Debug\net9.0\ref\SMA.Core.dll

@@ -1,0 +1,13 @@
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.AssemblyInfoInputs.cache
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.AssemblyInfo.cs
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.sourcelink.json
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.csproj.AssemblyReference.cache
+D:\SMS\SMA.Infrastructure\bin\Debug\net9.0\SMA.Infrastructure.deps.json
+D:\SMS\SMA.Infrastructure\bin\Debug\net9.0\SMA.Infrastructure.dll
+D:\SMS\SMA.Infrastructure\bin\Debug\net9.0\SMA.Infrastructure.pdb
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.dll
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\refint\SMA.Infrastructure.dll
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\SMA.Infrastructure.pdb
+D:\SMS\SMA.Infrastructure\obj\Debug\net9.0\ref\SMA.Infrastructure.dll
