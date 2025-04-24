@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SMA.Application\SMA.Application.csproj" />
+    <ProjectReference Include="..\SMA.Infrastructure\SMA.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

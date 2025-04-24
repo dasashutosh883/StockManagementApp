@@ -2,7 +2,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SMA.Core\SMA.Core.csproj" />
-    <ProjectReference Include="..\SMA.Infrastructure\SMA.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mappers\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Validators\" />
   </ItemGroup>
 
   <PropertyGroup>
